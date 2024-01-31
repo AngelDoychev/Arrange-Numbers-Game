@@ -10,7 +10,7 @@
 <br />
 <p>Example size of 3:</p>
 <b/>
-<img src="=https://i.postimg.cc/1z3X7gf7/size-3.png" alt="size_3">
+<img src="https://i.postimg.cc/1z3X7gf7/size-3.png" alt="size_3">
 <br />
 <p>Example size of 5:</p>
 <br />
